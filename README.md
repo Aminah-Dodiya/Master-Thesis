@@ -29,7 +29,7 @@ Dementia is a growing health concern characterized by declining memory and cogni
 The image below illustrates the structural differences between a healthy brain and one Alzheimer's Disease progression.
 
 ![Healthy Brain vs. Dementia Brain](https://healthwasp.com/wp-content/uploads/the-stages-of-dementia4.jpg)
-*Source:(https://www.weednews.co/cbd-oil-for-dementia-alzheimer/)*
+Source:(https://www.weednews.co/cbd-oil-for-dementia-alzheimer/)*
 
 
 ## Repository Structure
