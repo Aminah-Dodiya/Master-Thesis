@@ -131,9 +131,19 @@ Flower enables production-grade federated learning with flexible client-server a
 
 ## Dependencies
 
-To install the required packages, run the following command:
+This project requires the following main Python packages:
 
-pip install -r requirements.txt
+- Python >= 3.8
+- NumPy – Numerical computing and array operations
+- Pandas – Data manipulation and preprocessing
+- scikit-learn – Machine learning utilities and metrics
+- TensorFlow –  Deep learning framework for model development and training
+- Keras – High-level neural networks API (for model prototyping or TensorFlow backend)
+- Flower (flwr) – Federated learning framework (Flower documentation)
+- Matplotlib / Seaborn – Data visualization
+- nibabel – Reading and processing medical imaging data in NIfTI and other formats
+- openpyxl – Excel file reading/writing (for tabular data or logs)
+- Pillow – Image processing and manipulation
 
 ---
 
